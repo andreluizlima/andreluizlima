@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm André <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm André Luiz Lima<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 🔭 I’m currently working at **Banco next**, a brazilian digital bank
+- 🔭 I’m currently working at **Banco next**, a brazilian digital bank as a **System Analyst**
 
-- 🌱 I’m currently learning **Python, Java, Spring Boot and Flutter**
+- 🌱 I’m currently learning about **Python, Java, Spring Boot, Azure Cloud and Flutter**
 
 - 📫 How to reach me: **andre.luiz.lima.1997@gmail.com**
 

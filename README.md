@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm André Luiz Lima<img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A developer from Brazil</h3>
 
-- 🔭 I’m currently working as a **Java Software Engineer** at **Banco next**, a brazilian digital bank
+- 🔭 I’m currently working as a **Java Software Engineer** at **Banco Bradesco**, a brazilian bank
 
 - 🌱 I’m currently learning about **Python, Java, Spring Boot, Azure Cloud and Flutter**
 

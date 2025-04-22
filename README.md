@@ -7,8 +7,6 @@
 
 - 📫 How to reach me: **andre.luiz.lima.1997@gmail.com**
 
-- ⚡ What I like to do: **I like so much playing games, riding bikes, driving cars, learning new stuff... and coding of course**
-
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
